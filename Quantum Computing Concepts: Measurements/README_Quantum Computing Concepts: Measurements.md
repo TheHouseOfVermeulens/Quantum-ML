@@ -1,6 +1,6 @@
 In Quantum Computing Concepts: Measurements
 
-• Single-qubit measurements (tutorial). Learn what quantum measurement is and how to use it for single-qubit systems.
+• Single-qubit measurements. Learn what quantum measurement is and how to use it for single-qubit systems.
 
 • Measurements. Learn to distinguish quantum states using measurements.
 
