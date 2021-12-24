@@ -1,4 +1,4 @@
-In Quantum Computing Concepts: Measurements¶
+In Quantum Computing Concepts: Measurements
 
 • Single-qubit measurements (tutorial). Learn what quantum measurement is and how to use it for single-qubit systems.
 
